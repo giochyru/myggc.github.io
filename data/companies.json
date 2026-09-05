@@ -1,0 +1,63 @@
+[
+  {
+    "id": "madmoa",
+    "name": {
+      "en": "MadMoa",
+      "ka": "მედმოა"
+    },
+    "verified": true,
+    "roles": [
+      "developer",
+      "publisher",
+      "outsourcing",
+      "codev",
+      "porting",
+      "art",
+      "audio"
+    ],
+    "city": "Tbilisi",
+    "about": {
+      "en": "Developer of Dumbriel",
+      "ka": "ინდი სტუდია, რომელიც საკუთარ თამაშებთან ერთად პორტირებასა და კო-დეველოპმენტზე მუშაობს."
+    },
+    "website": "MadMoa.com",
+    "email": "info@madmoa.com",
+    "links": {
+      "facebook": "https://www.facebook.com/share/1KbdgtUYMv/",
+      "linkedin": "https://www.linkedin.com/company/madmoa/",
+      "instagram": "https://www.instagram.com/madmoastudio?igsi=MWpqcjVjOGxsN2Fzaw==",
+      "youtube": "https://youtube.com/@madmoastudio?si=Vt4oWMS5FBVOi6k1",
+      "steam": "https://store.steampowered.com/publisher/madmoa",
+      "x": "https://x.com/MadMoaStudio"
+    },
+    "founded": 2019,
+    "entity": "company",
+    "origin": "georgian",
+    "size": "6-10",
+    "logo": "assets/logos/madmoa.jpg"
+  },
+  {
+    "id": "example-team",
+    "name": {
+      "en": "Example Team",
+      "ka": "სანიმუშო გუნდი"
+    },
+    "logo": "",
+    "entity": "team",
+    "verified": false,
+    "origin": "georgian",
+    "roles": [
+      "developer",
+      "art"
+    ],
+    "city": "Batumi",
+    "size": "1-5",
+    "about": {
+      "en": "Placeholder entry so you can see how an unregistered team looks. Delete it from the admin tool.",
+      "ka": "სანიმუშო ჩანაწერი, რომ დაინახო როგორ გამოიყურება არარეგისტრირებული გუნდი. წაშალე ადმინ ხელსაწყოდან."
+    },
+    "website": "",
+    "email": "",
+    "links": {}
+  }
+]
